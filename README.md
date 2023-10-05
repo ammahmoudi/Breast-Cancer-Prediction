@@ -1,4 +1,4 @@
-# Breast-Cancer-Prediction
+# Breast Cancer Prediction
 
 An exploratory data analysis (EDA) and machine learning on the "Breast Cancer Gene Expression Profiles (METABRIC)" dataset.
 The primary goal is to gain insights and understanding from the dataset, especially regarding clinical information and its relationship with breast cancer survival.
